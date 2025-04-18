@@ -13,7 +13,7 @@ yarn-error.log
 
 # Firebase Admin Key
 **firebase.json # Add the actual filename here
-
+firebase.json
 # Build Folders (if applicable)
 dist/
 build/
